@@ -1,0 +1,19 @@
+.row{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+
+.box{
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 15px;
+}
+
+.cart-btn{
+    background-color: #ff6f61;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
